@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #CCCCCC;
+}
+
+section {
+    margin-left: 20px;
+}
+
+/* .head-text h1 {
+    text-size-adjust: 28px;
+} */
+
+h1 {
+    text-size-adjust: 28px;
+}
+
+article header p {
+    font-style: italic;
+}
+
+/* .head-text p {
+   
+} */
+
+p {
+    text-size-adjust: 24px;
+}
+
