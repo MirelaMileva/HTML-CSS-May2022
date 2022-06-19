@@ -1,0 +1,18 @@
+@import "https://use.fontawesome.com/releases/v6.1.1/css/all.css";
+
+ul, li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+a {
+    border-radius: 50%;
+}
+
+a:hover {
+    color: blue;
+}
+
+a .google:hover {
+    color:red;
+}

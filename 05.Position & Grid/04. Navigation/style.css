@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+hr {
+    border: 0;
+    border-top: 2px solid black;
+}
+
+a {
+    color: rgb(0, 102, 0);
+}
+
+.navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navigation li {
+    display: inline;
+    float: right;
+}
+
+.navigation li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.mainnav p {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h3 {
+    font-family: Georgia, serif;
+    text-size-adjust: 1em/1.2;
+}
+
+main {
+    display: inline;
+    width: 70%;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+.category-aside {
+    display: inline;
+    width: 30%;
+    width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    position: relative;
+    top:50%;
+    left: 50%;
+    right: 50%;
+    bottom: 50%;
+    float: right;
+}
+
+.main-content img {
+    width: 100px;
+    float: right;
+    border: 2px solid black;
+    border-width: medium;
+}
+
+blockquote {
+    font-family: Georgia, serif;
+    width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px black;
+    color: black
+}
+
+.side-content img {
+    float: left;
+    padding: 10px;
+    border: 2px solid black;
+    border-width: medium;
+}
+
+.last-section p {
+    letter-spacing: initial;
+}
+
