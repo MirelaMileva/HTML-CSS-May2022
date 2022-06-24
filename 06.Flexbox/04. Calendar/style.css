@@ -1,0 +1,29 @@
+html {
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    max-width: 65vw;
+}
+
+.container .week {
+    display: flex;
+    align-items: center;
+    align-items: stretch;
+    width: 100%;
+    margin: 50px;
+}
+
+.container .notes {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container span {
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}

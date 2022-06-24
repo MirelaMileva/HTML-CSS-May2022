@@ -1,0 +1,14 @@
+.head-part {
+    border-bottom: 2px solid rgb(0,0,0);
+    display: flex;
+}
+
+.head-part .nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.head-part .nav-list a {
+    color: rgb(0, 153, 0);
+}

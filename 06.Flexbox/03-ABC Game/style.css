@@ -1,0 +1,19 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+.container {  
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    max-width: 15vw;
+    height: 35rem;
+    justify-content: space-around;
+}
+
+.container span {
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    order: 0;
+}

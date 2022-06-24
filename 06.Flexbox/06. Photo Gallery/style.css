@@ -1,0 +1,22 @@
+body {
+    display: flex;
+}
+
+body .list-items {
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    display: flex;
+    margin: 12px 12px;
+    padding: 12px 12px;
+    border: 2px solid black;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 100%;
+    flex-wrap: wrap;
+}
